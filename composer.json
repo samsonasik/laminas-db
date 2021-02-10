@@ -29,7 +29,7 @@
         }
     },
     "require": {
-        "php": "^7.3",
+        "php": "^7.3|~8.0",
         "laminas/laminas-stdlib": "^3.2.1",
         "laminas/laminas-zendframework-bridge": "^1.0.4"
     },
@@ -39,7 +39,7 @@
         "laminas/laminas-hydrator": "^3.0.2",
         "laminas/laminas-servicemanager": "^3.4.1",
         "phpspec/prophecy-phpunit": "^2.0",
-        "phpunit/phpunit": "~9.1.5"
+        "phpunit/phpunit": "^9.1.5"
     },
     "suggest": {
         "laminas/laminas-eventmanager": "Laminas\\EventManager component",
